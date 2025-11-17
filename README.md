@@ -1,4 +1,4 @@
-# **Pizza Sales Data Analysis — Nettoyage, Transformation & Visualisation**
+# 🍕 **Pizza Sales Data Analysis — Nettoyage, Transformation & Visualisation**
 
 Ce projet analyse des données de ventes de pizzas à partir de plusieurs fichiers (ventes, tailles, catégories…).
 Il met en œuvre un large éventail de compétences Python pour explorer, nettoyer, manipuler, fusionner et visualiser les données.
