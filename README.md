@@ -156,5 +156,3 @@ Projet réalisé par **Alex Alkhatib** dans le cadre de mon apprentissage en dat
 ## 📄 Licence
 MIT License
 Copyright (c) 2025 Alex Alkhatib
-
-Dis-moi ce que tu préfères !
